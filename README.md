@@ -10,4 +10,10 @@ The users will submit their one minute pitches and other users will vote on them
 
 ## BDD(Behaviour Driven Development)
 
+>Login Inputs
+
+| Inputs |  Description |
+| :---         |          ---: |
+| Username  | Account username, ``eg Monkeyes``|
+| Password  | Account password, ``eg monkey``|
 
