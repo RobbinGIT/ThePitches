@@ -10,4 +10,4 @@ The users will submit their one minute pitches and other users will vote on them
 
 ## BDD(Behaviour Driven Development)
 
-![alt text]
+
