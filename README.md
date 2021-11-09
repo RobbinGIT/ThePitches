@@ -75,3 +75,8 @@ To work with ONE MINUTE PITCH App you need to have some few prerequisites.
 - Code/text editor
 
 - Terminal
+
+## Installations
+
+The following command installs all the application requirements
+>``pip freeze -r requirements.txt``
