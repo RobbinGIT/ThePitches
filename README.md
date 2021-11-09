@@ -108,3 +108,10 @@ After extracting the files,
 
 ## Contacts 
 robbingithimbo@gmail.com
+
+## Live link 
+**You can view the project through this link**
+
+## License 
+
+#### [*GNU License*](LICENSE)
