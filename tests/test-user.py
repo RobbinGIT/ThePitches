@@ -5,7 +5,7 @@ from app import db
 class UserModelTest(unittest.TestCase):
 
     def setUp(self):
-        self.new_user = User(username="paul", email="paul@gmail.com", password = 'banana')
+        self.new_user = User(username="paul", email="robbin.githimbo@student.moringaschool.com", password = 'Shizzle27!')
 
     def test_password_setter(self):
         self.assertTrue(self.new_user.pass_secure is not None)
@@ -15,7 +15,7 @@ class UserModelTest(unittest.TestCase):
                 self.new_user.password
 
     def test_password_verification(self):
-        self.assertTrue(self.new_user.verify_password('banana'))
+        self.assertTrue(self.new_user.verify_password('Shizzle27!'))
         
     def save_account(self):
         db.session.add(self.new_user)

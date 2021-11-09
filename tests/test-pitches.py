@@ -8,7 +8,7 @@ class PostModelTest(unittest.TestCase):
    
         
     def setUp(self):
-        self.user_paul = User(user_name = "paul", password="banana")
+        self.user_robbin = User(user_name = "Robbin", password="Shizzle27!")
         self.new_post = Posts(title='a',post='b',category='d',posts=self.user_paul)
        
 
