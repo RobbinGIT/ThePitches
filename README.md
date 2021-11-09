@@ -80,3 +80,7 @@ To work with ONE MINUTE PITCH App you need to have some few prerequisites.
 
 The following command installs all the application requirements
 >``pip freeze -r requirements.txt``
+
+## Setup
+Run 
+https://github.com/RobbinGIT/ThePitches.git
