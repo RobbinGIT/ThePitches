@@ -21,7 +21,7 @@ The users will submit their one minute pitches and other users will vote on them
 
 | Inputs |  Description |
 | :---         |          ---: |
-| Username  | Account username, ``eg lauradoe``|
-| Email  | User email, ``eg morty@testmail.com``|
-| Password  | Account password, ``eg laura23``|
-| Confirm Password  | Account password, ``eg laura23``|
+| Username  | Account username, ``eg Monkeyes`|
+| Email  | User email, ``eg morty@ymail.com``|
+| Password  | Account password, ``eg monkey``|
+| Confirm Password  | Account password, ``eg monkey``|
