@@ -66,7 +66,7 @@ The users will submit their one minute pitches and other users will vote on them
 
 To work with ONE MINUTE PITCH App you need to have some few prerequisites.
 
-- Python3.6
+- Python3
 
 - pip
 
