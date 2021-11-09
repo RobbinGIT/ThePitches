@@ -25,3 +25,12 @@ The users will submit their one minute pitches and other users will vote on them
 | Email  | User email, ``eg morty@ymail.com``|
 | Password  | Account password, ``eg monkey``|
 | Confirm Password  | Account password, ``eg monkey``|
+
+
+> Pitches inputs
+
+| Inputs | Description  |
+|---|---|
+|  Heading | Pitch description eg; ``pickup lines``  |
+|  Pitch text| The actual pitch body|
+| Comment| A comment on the pitch|
