@@ -105,3 +105,6 @@ After extracting the files,
 5. Running tests
 
  > ``python3 manage.py test.``
+
+## Contacts 
+robbingithimbo@gmail.com
