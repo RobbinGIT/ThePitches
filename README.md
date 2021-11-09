@@ -84,3 +84,7 @@ The following command installs all the application requirements
 ## Setup
 Run 
 https://github.com/RobbinGIT/ThePitches.git
+
+or download the zip file from github.
+
+After extracting the files, 
