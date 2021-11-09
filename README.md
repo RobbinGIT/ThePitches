@@ -61,3 +61,17 @@ The users will submit their one minute pitches and other users will vote on them
 * Html5
 * Css3
 * Bootstrap4
+
+# Prerequisites
+
+To work with ONE MINUTE PITCH App you need to have some few prerequisites.
+
+- Python3.6
+
+- pip
+
+- Flask 
+
+- Code/text editor
+
+- Terminal
